@@ -39,6 +39,14 @@
 
 `lpr`: Print a file on a connected printer.
 
+![image](https://github.com/ChaitanyDalvi06/OS_LabManual/assets/142775927/5c56ba71-3d75-47e7-bfd3-36c4f6b25b17)
+
+
 `man`: Display the manual pages for a specified command.
+
+![image](https://github.com/ChaitanyDalvi06/OS_LabManual/assets/142775927/13c3d039-f06c-4966-a05f-feeb96d82f57)
+
 `grep`: Search for a specified pattern in one or more files.
+
+
 `sed`: Utilize a stream editor for filtering and transforming text.
