@@ -1,6 +1,9 @@
 # OS_LabManual
 
 `ls`: List all files and directories in the current directory.
+![image](https://github.com/ChaitanyDalvi06/OS_LabManual/assets/142775927/1e735a7d-3a4f-4247-a9c4-c005f0dbc8d7)
+
+
 `cd`: Change the current directory to a specified path.
 `mkdir`: Create a new directory with a given name.
 `rmdir`: Remove an empty directory.
