@@ -19,11 +19,26 @@
 
 `cp`: Copy a file or directory from one location to another.
 
+![image](https://github.com/ChaitanyDalvi06/OS_LabManual/assets/142775927/427c286b-1d6e-4c01-87b0-99fdd3e3b647)
+
+
 
 `rm`: Remove a file or directory.
+
+![image](https://github.com/ChaitanyDalvi06/OS_LabManual/assets/142775927/e3963cf3-08d0-45c6-bb90-47542b412dd7)
+
 `mv`: Move or rename a file or directory.
+
+![image](https://github.com/ChaitanyDalvi06/OS_LabManual/assets/142775927/53662e82-5af1-4b98-8ed5-9de4ab89dc83)
+
+
+
 `more`: Display the contents of a file page by page.
+
+![image](https://github.com/ChaitanyDalvi06/OS_LabManual/assets/142775927/f123dc9a-5e11-4eb2-bca1-3ec7e4cfba33)
+
 `lpr`: Print a file on a connected printer.
+
 `man`: Display the manual pages for a specified command.
 `grep`: Search for a specified pattern in one or more files.
 `sed`: Utilize a stream editor for filtering and transforming text.
