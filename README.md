@@ -48,5 +48,10 @@
 
 `grep`: Search for a specified pattern in one or more files.
 
+![image](https://github.com/ChaitanyDalvi06/OS_LabManual/assets/142775927/85c5b4ac-2658-4084-bedf-133dc132263e)
+
+
 
 `sed`: Utilize a stream editor for filtering and transforming text.
+![image](https://github.com/ChaitanyDalvi06/OS_LabManual/assets/142775927/cd5f9bfb-7cf0-4699-b536-7b9a80ccfa89)
+
