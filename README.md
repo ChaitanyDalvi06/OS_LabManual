@@ -6,9 +6,20 @@
 
 
 `cd`: Change the current directory to a specified path.
+
+![image](https://github.com/ChaitanyDalvi06/OS_LabManual/assets/142775927/f85810e5-f832-4f31-b203-ee00e0ae2493)
+
 `mkdir`: Create a new directory with a given name.
+
+![image](https://github.com/ChaitanyDalvi06/OS_LabManual/assets/142775927/3952168f-91f9-48e2-a3a9-881630eea01d)
+
 `rmdir`: Remove an empty directory.
+
+![image](https://github.com/ChaitanyDalvi06/OS_LabManual/assets/142775927/4994c39d-8bb8-448b-8138-2142b8502cee)
+
 `cp`: Copy a file or directory from one location to another.
+
+
 `rm`: Remove a file or directory.
 `mv`: Move or rename a file or directory.
 `more`: Display the contents of a file page by page.
